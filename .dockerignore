@@ -1,0 +1,7 @@
+venv/
+jenkins-venv/
+__pycache__/
+.pytest_cache/
+.git/
+.gitignore
+requirements.txt.old
